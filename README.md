@@ -18,4 +18,6 @@ end
 Documentation can be generated with [ExDoc](https://github.com/elixir-lang/ex_doc)
 and published on [HexDocs](https://hexdocs.pm). Once published, the docs can
 be found at [https://hexdocs.pm/dungeon_crawl](https://hexdocs.pm/dungeon_crawl).
-
+## Start Game
+To init the game just run the following command:
+mix start
